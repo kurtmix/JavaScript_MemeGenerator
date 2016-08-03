@@ -1,4 +1,10 @@
+div {
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px black dashed;
+  text-align: center;
+}
 
-p {
-	color:lightcyan;
+img {
+  width: 100%;
 }
